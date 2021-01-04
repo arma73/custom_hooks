@@ -6,3 +6,4 @@ export { useMeasure } from "./useMeasure";
 export { useMount } from "./useMount";
 export { useUnmount } from "./useMount";
 export { useScript } from "./useScript";
+export { useScrollFreeze } from "./useScrollFreeze";
