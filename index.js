@@ -8,3 +8,4 @@ export { useUnmount } from "./useMount";
 export { useScript } from "./useScript";
 export { useScrollFreeze } from "./useScrollFreeze";
 export { useTheme } from "./useTheme";
+export { useToggle } from "./useToggle";
