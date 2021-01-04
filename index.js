@@ -5,3 +5,4 @@ export { useLocalStorage } from "./useLocalStorage";
 export { useMeasure } from "./useMeasure";
 export { useMount } from "./useMount";
 export { useUnmount } from "./useMount";
+export { useScript } from "./useScript";
